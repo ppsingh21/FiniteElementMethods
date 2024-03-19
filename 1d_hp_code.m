@@ -83,12 +83,12 @@ for i=1:NINT
         N=zeros(2,IPVAL+1);
         N(1,i)=(1-x(i))/2;
         N(2,i)=(1+x(i))/2;
-    elseif IPVAL==2
+    elseif IPVAL==3
         N=zeros(3,IPVAL+1);
         N(1,i)= x(i)*(x(i)-1)/2;
         N(2,i)= x(i)*(x(i)+1)/2;
         N(3,i)= 1-(x(i)*x(i));
-    elseif IPVAL==3
+    elseif IPVAL==2
         N=zeros(4,IPVAL+1);
         N(1,i)=((1-x(i))*(3*x(i)-1)*(3*x(i)+1))/16;
         N(2,i)=((1+x(i))*(3*x(i)-1)*(3*x(i)+1))/16;
@@ -96,6 +96,8 @@ for i=1:NINT
         N(4,i)=9*((1-x(i))x*(1+x(i))*(3*x(i)+1))/16;
     end
 end
+
+
 
 
 

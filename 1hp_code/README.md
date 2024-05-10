@@ -13,8 +13,8 @@ This repository contains a generic finite element code developed to solve the go
 
 ## Usage
 To use the code, follow these steps:
-1. Clone the repository: `git clone https://github.com/your-username/finite-element-method.git`
-2. Navigate to the project directory: `cd finite-element-method`
+1. Clone the repository: `git clone https://github.com/ppsingh21/FiniteElementMethods.git`
+2. Navigate to the project directory: `cd 1hp_code`
 3. Run the main code file with appropriate inputs.
 
 ## Patch Test
@@ -37,8 +37,8 @@ To use the code, follow these steps:
 - Matplotlib (for plotting results)
 
 ## Contributors
-- [Your Name](https://github.com/your-username)
-- [Co-author's Name](https://github.com/co-authors-username)
+- [Prabal Pratap Singh](https://github.com/ppsingh21)
+- [Akshat Kumar](https://github.com/Akshat-2606)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

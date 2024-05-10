@@ -28,8 +28,8 @@ Discuss the results obtained from the finite element analyses and verify them us
 
 ## Usage
 To use the code, follow these steps:
-1. Clone the repository: `git clone https://github.com/your-username/beam-bending-fem.git`
-2. Navigate to the project directory: `cd beam-bending-fem`
+1. Clone the repository: `git clone https://github.com/ppsingh21/FiniteElementMethods.git`
+2. Navigate to the project directory: `cd Beam_Bending`
 3. Run the main code file with appropriate inputs.
 
 ## Requirements
@@ -37,8 +37,8 @@ To use the code, follow these steps:
 - NumPy
 
 ## Contributors
-- [Your Name](https://github.com/ppsingh21)
-- [Co-author's Name](https://github.com/co-authors-username)
+- [Prabal Pratap Singh](https://github.com/ppsingh21)
+- [Akshat Kumar](https://github.com/Akshat-2606)
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

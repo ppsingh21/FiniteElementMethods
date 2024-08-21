@@ -41,9 +41,6 @@ To use the code, follow these steps:
 - [Prabal Pratap Singh](https://github.com/ppsingh21)
 - [Akshat Kumar](https://github.com/Akshat-2606)
 
-### License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## One Dimensional Beam Bending
 ### Introduction
 This repository contains a one-dimensional finite element code implemented for solving the beam bending problem using Hermite cubic shape functions. The code is capable of handling various types of transverse loads and applying different combinations of boundary conditions at either end of the beam.

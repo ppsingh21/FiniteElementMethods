@@ -70,9 +70,13 @@ Discuss the results obtained from the finite element analyses and verify them us
 
 ### Usage
 To use the code, follow these steps:
-1. Clone the repository: `git clone https://github.com/ppsingh21/FiniteElementMethods.git`
-2. Navigate to the project directory: `cd Beam_Bending`
-3. Run the main code file with appropriate inputs.
+1. Clone the repository:
+```bash
+git clone https://github.com/ppsingh21/FiniteElementMethods.git
+2. Navigate to the project directory:
+```bash
+cd Beam_Bending
+4. Run the main code file with appropriate inputs.
 
 ### Requirements
 - Python 3.x
